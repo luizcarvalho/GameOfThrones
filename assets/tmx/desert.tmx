@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="hdtiled" tilewidth="32" tileheight="32">
+  <image source="gfx/hdtiled.png" width="512" height="512"/>
+ </tileset>
+ <layer name="objects" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC72TyQ3CMBBFTTuEkDsQImiBCoASKAFBB+QUOoAOoAOgArYC2KRc2b6FD9ZoHEuxxeHp/2g8T5alZEKIOcg85QIsPeYKrD1mbmCi9RM4a99T5nwHdFWPSEpmmvMOHpor1c4FJCUJSd0p8wNE5ddTcqZJ8t/0wVgxcHTVwQj0FENQs+xswBbsSJezNuNrWfb24ACOpMudkPGFambau4AruJEud2LGF6uZae8JXuBNuu39ivZMFL1fGSLGFzj4Esbn8h9UPd+v4fl+OeNzcZXxfQGIhthzQAYAAA==
+  </data>
+ </layer>
+</map>
