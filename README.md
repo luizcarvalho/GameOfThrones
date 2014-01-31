@@ -1,9 +1,7 @@
 The Game of Thrones is a demo-test game using AndEngine Plataform
 
-<iframe width="420" height="315" src="http://www.youtube.com/watch?v=4UlTc4EEelQ" frameborder="0" allowfullscreen></iframe>
 
-
-
+View [vídeo demo](http://www.youtube.com/watch?v=4UlTc4EEelQ)
 
 [![GameOfThrones][banner]
 
